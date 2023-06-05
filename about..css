@@ -1,0 +1,207 @@
+body{
+    background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 10.17.33.jpeg);
+    margin: 0%;
+}
+.navbar{
+    position: fixed;
+    display: flex;
+    background-color: black;
+    justify-content: end;
+    align-items: center;
+    height: 80px;
+    width: 100%;
+}
+.navbar h1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 800px;
+}
+.navbar h1:hover{
+    color: skyblue;
+}
+a{
+    text-decoration: none;
+}
+
+.box{
+    border-radius: 15px;
+    color: black ;
+    background-color: white;
+    width: 70px;
+    height: 35px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box1{
+    border-radius: 15px;
+    color: black ;
+    background-color: white;
+    width: 70px;
+    height: 35px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box:hover,.box1:hover{
+    background-color: transparent;
+    border: 1px solid wheat;
+    color: white;
+}
+/* iniii identitas */
+.box2{
+    position: absolute;
+    box-shadow: 20px;
+    box-shadow: 15px 15px 15px black;
+    margin-top: 100px;
+    margin-left: 120px;
+    width: 300px;
+    height: 400px;
+    background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 11.16.34.jpeg);
+    background-size: cover;
+    border-width: 20px;
+    border-style: outset;
+}
+.box3{
+    position: absolute;
+    box-shadow: 20px;
+    box-shadow: 15px 15px 15px black;
+    margin-top: 100px;
+    margin-left: 840px;
+    width: 300px;
+    height: 400px;
+    background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 11.16.32.jpeg);
+    background-size: cover;
+    border-width: 20px;
+    border-style: outset;
+}
+.box4{
+    position: absolute;
+    box-shadow: 20px;
+    box-shadow: 15px 15px 15px black;
+    margin-top: 600px;
+    margin-left: 120px;
+    width: 300px;
+    height: 400px;
+    background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 11.16.33.jpeg);
+    background-size: cover;
+    border-width: 20px;
+    border-style: outset;
+}
+.box5{
+    position: absolute;
+    box-shadow: 20px;
+    box-shadow: 15px 15px 15px black;
+    margin-top: 600px;
+    margin-left: 840px;
+    width: 300px;
+    height: 400px;
+    background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 11.16.34\ \(1\).jpeg);
+    background-size: cover;
+    border-width: 20px;
+    border-style: outset;
+}
+.box6{
+    position: absolute;
+    box-shadow: 20px;
+    box-shadow: 15px 15px 15px black;
+    margin-top: 1100px;
+    margin-left: 120px;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 400px;
+    background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 11.16.35.jpeg);
+    background-size: cover;
+    border-width: 20px;
+    border-style: outset;
+}
+.box7{
+    position: absolute;
+    box-shadow: 20px;
+    box-shadow: 15px 15px 15px black;
+    margin-top: 1100px;
+    margin-left: 840px;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 400px;
+    background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 11.16.35\ \(1\).jpeg);
+    background-size: cover;
+    border-width: 20px;
+    border-style: outset;
+}
+/* ini identitas */
+.segi1{
+    margin-top: 120px;
+    margin-left: 140px;
+    position: absolute;
+    border-radius: 2px;
+    background-color: transparent;
+    width: 300px;
+    height: 400px;
+    color: transparent;
+}
+.segi2{
+    margin-top: 120px;
+    margin-left: 860px;
+    position: absolute;
+    border-radius: 2px;
+    background-color: transparent;
+    width: 300px;
+    height: 400px;
+    color: transparent;
+}
+.segi3{
+    margin-top: 620px;
+    margin-left: 140px;
+    position: absolute;
+    border-radius: 2px;
+    background-color: transparent;
+    width: 300px;
+    height: 400px;
+    color: transparent;
+}
+.segi4{
+    margin-top: 620px;
+    margin-left: 860px;
+    position: absolute;
+    border-radius: 2px;
+    background-color: transparent;
+    width: 300px;
+    height: 400px;
+    color: transparent;
+}
+.segi5{
+    margin-top: 1120px;
+    margin-left: 140px;
+    position: absolute;
+    border-radius: 2px;
+    background-color: transparent;
+    width: 300px;
+    height: 400px;
+    color: transparent;
+}
+.segi6{
+    margin-top: 1120px;
+    margin-left: 860px;
+    position: absolute;
+    border-radius: 2px;
+    background-color: transparent;
+    width: 300px;
+    height: 400px;
+    color: transparent;
+}
+.segi1:hover,.segi2:hover,.segi3:hover,.segi4:hover,.segi5:hover,.segi6:hover{
+    background-color: white;
+    border-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    transition: 1s;
+    color: black;
+    font-size:larger;
+    width: 270px;
+    height: 370px;
+}

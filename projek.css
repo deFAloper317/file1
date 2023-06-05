@@ -1,0 +1,103 @@
+body{
+	justify-content: center;
+	align-items:center;
+	padding-bottom: 0%;
+	margin-bottom: 0%;
+	margin: 0%;
+	background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 10.17.33.jpeg);
+	background-size: cover;
+}
+.navbar{
+	position: fixed;
+	display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+	width: 100%;
+}
+a{
+	text-decoration: none;
+}
+.navbar h1{
+	color: white;
+    justify-content: start;
+    align-items: start;
+    flex-wrap: nowrap;
+    margin-right: 900px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar h1:hover{
+	color: skyblue;
+}
+.box{
+	text-decoration: none;
+	border-radius: 15px;
+    color: black ;
+    background-color: white;
+    width: 70px;
+    height: 35px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box1{
+	text-decoration: none;
+	border-radius: 15px;
+    color: black ;
+    background-color: white;
+    width: 70px;
+    height: 35px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box:hover, .box1:hover{
+	background-color: transparent;
+	border: 1px solid white;
+	color: white;
+}
+/* .header-left{
+	border-left: 0%;
+	border-right: 30px;
+	border-top: 30px;
+	border-bottom: 30px;
+	border-radius: 50px;
+	border-style: outset;
+	border-color: white;
+	border-width: 30px;
+	position: absolute;
+	display: flex;
+	margin-top: 500px;
+	margin-bottom: 0px;
+	border-radius: 5px;
+	margin-left: 0%;
+	background-color: blue;
+	width: 250px;
+	height: 1000px;
+	justify-content: center;
+	align-items: center;
+	margin-top: 0%;
+
+} */
+.header-right{
+	box-shadow: 30px;
+	box-shadow: 20px 20px 15px black;
+	background-image: url(video/WhatsApp\ Image\ 2023-05-31\ at\ 10.31.03.jpeg);
+	background-size: cover;
+	border-color: white;
+	border-width: 30px;
+	border-style: outset;
+	position: absolute;
+	margin-top: 150px;
+	margin-bottom: 80px;
+    margin-left: 310px;
+	color: white;
+	width: 670px;
+	height: 370px;
+}
